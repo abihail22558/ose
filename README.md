@@ -23,6 +23,8 @@ This guide outlines the steps to perform a **basic network analysis** using the 
      ```bash
      ipconfig
      ```
+     ![image](https://github.com/user-attachments/assets/82675d65-5eff-4d15-b37e-43a5e72b6e2f)
+
 
 2. **Scan the Network**:
    - Use the following command to perform a basic scan of the network:
